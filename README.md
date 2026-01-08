@@ -1,5 +1,5 @@
 
-# Data Cleaning & Preprocessing in Python (Complete Practical Cheat Sheet)
+# Data Cleaning & Preprocessing in Python 
 
 This sheet covers **all commonly used commands/functions** from **pandas, NumPy, statistics, SciPy, and sklearn** used in **data cleaning, preprocessing, and analysis practicals**.
 
